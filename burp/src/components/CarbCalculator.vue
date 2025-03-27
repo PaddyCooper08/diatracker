@@ -118,9 +118,14 @@ async function calculateCarbs() {
 
 <template>
   <div class="max-w-3xl mx-auto p-6">
-    <h1 class="text-3xl font-bold text-center mb-8 text-gray-800">
-      Carb Calculator
-    </h1>
+    <div class="text-center mb-8">
+      <img
+        src="https://raw.githubusercontent.com/PaddyCooper08/diatracker/ca9710f2da38c2d9bdcb75671d002a7f169425f6/burp/src/assets/burp.png"
+        alt="burp logo"
+        class="h-30 mx-auto mb-4"
+      />
+      <h1 class="text-3xl font-bold text-gray-800">burp</h1>
+    </div>
 
     <div class="bg-white shadow-lg rounded-xl p-6 mb-8 border border-gray-100">
       <form
