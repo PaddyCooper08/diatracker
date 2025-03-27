@@ -1,0 +1,5 @@
+{
+  "appId": "com.burp.app",
+  "appName": "burp",
+  "webDir": "dist"
+}
